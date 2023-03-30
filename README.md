@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yogicodex
-- 👀 I’m interested in ...l
-- 🌱 I’m currently learning ...JavaScript and python.
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in cyber security 
+- 🌱 I’m currently learning ...JavaScript and python
+- 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me ...jusk ask me 
 
 <!---
